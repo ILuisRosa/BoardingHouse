@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         var sc = new Scanner(System.in);
 
-        //Create a array with 10 positions
+        //Create an array with 10 positions
         var rooms = new Room[10];
 
         //Fill the array and set them identifier
